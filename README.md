@@ -1,7 +1,7 @@
 # Hi, I'm Ritik! 👋
 
 I'm a passionate Web Developer dedicated to creating innovative and efficient web applications.  
-✨ **Favorite Technologies**: JavaScript, ReactJS, Java, NodeJS  
+✨ **Favorite Technologies**: HTML, CSS, JavaScript, ReactJS, ExpressJS, NodeJS  
 📓 I’m currently seeking full-time opportunities in web development.  
 📧 **Email**: ritik02.works@gmail.com  
 💼 **LinkedIn**: [Ritik Patidar](https://www.linkedin.com/in/ritikpatidar20)
