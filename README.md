@@ -1,11 +1,7 @@
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Ritik Patidar</h1>
 
-<!--
-**soumyajit4419/soumyajit4419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started: -->
-
 <div align="center">
-  <img src ="./banner.png" />
+  <img src ="./my_banner.png" />
   
 </div>
 
@@ -25,7 +21,7 @@ Here are some ideas to get you started: -->
 
 - 🤔 I’m looking for help with `Competitive Programming`
 
-- 💬 Ask me about anything, Except Maths :sweat_smile:
+- 💬 Ask me about anything, Except CP :sweat_smile:
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
